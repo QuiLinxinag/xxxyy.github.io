@@ -176,8 +176,8 @@ Identifying learning outcomes, designing assessments, and planning learning acti
 	+ Do you EMI programs include a variety of student-centered learning activites?
 	+ Do you demostratate a good level of English proficiency and is your speech is intelligible to your students?
 	+ Do you posses pedagogical sklls that can help facilitate your students learning?
-- 	Motivation Q1
-- 	Motivation Q2
+- 	Pass Q1
+- 	Pass Q2
 		+ after reflecting on your own EMI teaching what would do differentlyl in you next class.
 		
 - in EMI classes
@@ -206,7 +206,15 @@ Identifying learning outcomes, designing assessments, and planning learning acti
 	+ 	Administer assessments effectively?
 	+ 	Whether students's understanding is checked during and after the lesson?
 	+ 	Provied a recap of the lesson and assign meaningful task for student to work on?
-- 
+- Pass Q3
+	+ 	in addition to the above listed critera, what other factor would adopt to evaluate the effectivness of the EMI courses in your dicipline? 
+- Reflection 
+	+ 	How successful was the lesson? did the students meet the intended learning objectives? how do you know?
+	+ 	what evidence do you have of student learning? what do students' work production reveal about their level of engagement, and understanding?
+	+ 	what classroom activies are effective (or ineffective) in term of engaging student? what, if anything, would you do differently?
+	+ 	Were you satified with your instructional deliverly?
+	+ 	what do you recommend to help improve the teaching strategy for next EMI class?
+	+ 	
 ## Unit 5 Evaluate EMI Instructors’ Performance 教師授課成效 /(必修)
 
 ## Prompt messages
