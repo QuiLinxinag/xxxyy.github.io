@@ -187,6 +187,22 @@ Identifying learning outcomes, designing assessments, and planning learning acti
 	+ 	Are learning objectives achievable and they be measured?
 	+ 	Are all teaching and learning activites meaningful, relvant, and motivating?
 	+ 	Are learning activites closely linked to course objectives?
+- Begining 
+	+ 	Does the instructor start the classes in positive mood?
+	+ 	Does the instructor set proper expectations and subject objectives?
+	+ 	Does the instructor manage routines, activites, and discussions effectively?
+	+ 	Does the instructor proived a recap of previous lessions?
+	+ 	Does the instructor use engaging warm-up / hook activites?
+	+ 	Does the instructor present the lesson by connecting it with the warm-up activites?
+- During
+	+ 	Factilate learning through a student-centerd approach?
+	+ 	Integrate appropriate teach or online tools to support learning?
+	+ 	Use enrichment activites for students to understand the topic?
+	+ 	Design authentic and meaningful leaning activites, and describe producres logically and clearly?
+	+ 	Promote students's engagement and interaction?
+	+ 	Encourage an open discussion relating the topic to real-life situation?
+	+ 	Use questioning techniques to engage students intellectually?
+	+ 	
 - 
 ## Unit 5 Evaluate EMI Instructors’ Performance 教師授課成效 /(必修)
 
