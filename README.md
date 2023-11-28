@@ -50,6 +50,7 @@ Identifying learning outcomes, designing assessments, and planning learning acti
 - evaluate
 - create
 
+## Prompt messages
 Revise and shorten it in a paragraphy, and check English grammar.
 
 Choose a concept, an idea, or a theory in your discipline, and use the three paraphras-ing strategies covered in this unit to explain it.
@@ -58,3 +59,4 @@ I will adopt three strategies as follows:
 - similar ideas
 - releadted words
 - inversely related
+
