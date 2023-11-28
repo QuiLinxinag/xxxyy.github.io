@@ -50,13 +50,11 @@ Identifying learning outcomes, designing assessments, and planning learning acti
 - evaluate
 - create
 
+## 
+
 ## Prompt messages
 Revise and shorten it in a paragraphy, and check English grammar.
 
-Choose a concept, an idea, or a theory in your discipline, and use the three paraphras-ing strategies covered in this unit to explain it.
+Q: Design a discussion question to check whether the students can judge the value of an idea based on evidence.
 
-I will adopt three strategies as follows:
-- similar ideas
-- releadted words
-- inversely related
-
+proposed the 3-5 solutions for the question, and proived the different result for the solution is adopted.
