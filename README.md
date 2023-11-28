@@ -202,7 +202,10 @@ Identifying learning outcomes, designing assessments, and planning learning acti
 	+ 	Promote students's engagement and interaction?
 	+ 	Encourage an open discussion relating the topic to real-life situation?
 	+ 	Use questioning techniques to engage students intellectually?
-	+ 	
+- Assessments
+	+ 	Administer assessments effectively?
+	+ 	Whether students's understanding is checked during and after the lesson?
+	+ 	Provied a recap of the lesson and assign meaningful task for student to work on?
 - 
 ## Unit 5 Evaluate EMI Instructors’ Performance 教師授課成效 /(必修)
 
