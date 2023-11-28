@@ -163,6 +163,33 @@ Identifying learning outcomes, designing assessments, and planning learning acti
 	+ teachers design lessons and activites to help students achieve learning objectives
 
 ## Unit 2 Assess Students’ Learning Achievements 評估學習成效 /(必修)
+### Assessment students' learning achievement
+- Assess students to 
+	+ find out what students know
+	+ find out EMI students' strength and areas for imporvement
+	+ Monitor progress in high-order thinking skills, and communication skils
+	+ ENcourage EMI students to improve
+- Assess criteria
+	+ learning outcome
+		* students should be able to apply the marketing 4Ps in desiging a new marketing campaign 
+	+ 	assessment criteria 
+		* students can explain marketing 4Ps correctly, and their ability to link 4Ps in their campaign deisgn 
+	+ assessment type
+		* summative
+			- 	long-term
+		* formative
+			- 	short-term
+	+ Peer assessment
+	+ Self assessment
+	+ feedback should focus on the learning outcome rather than on comparisions other students
+	+ Assessment results
+		* Mark 87/93
+		* levels Level1(low) / level5 (high)
+		* Written comments
+		* Questionaires / Interviews
+		
+
+## Unit 5 Evaluate EMI Instructors’ Performance 教師授課成效 /(必修)
 - Performance of EMI teacher
 	+ are there criteria that can be used to evaluate whether our EMI programs are effective
 	+ what else can we improve to make our EMI classes more successful?
@@ -214,11 +241,12 @@ Identifying learning outcomes, designing assessments, and planning learning acti
 	+ 	what classroom activies are effective (or ineffective) in term of engaging student? what, if anything, would you do differently?
 	+ 	Were you satified with your instructional deliverly?
 	+ 	what do you recommend to help improve the teaching strategy for next EMI class?
-	+ 	
-## Unit 5 Evaluate EMI Instructors’ Performance 教師授課成效 /(必修)
 
 ## Prompt messages
 Revise and shorten it in a paragraphy, and check English grammar.
 
+Q: 
+Give an example of a learning outcome and its corresponding assessment criteria.
 
-Technical report, PPT, oral presentation, and make a introduction video for their project
+learning outcome: website deisng
+assessment criteria: online test to assess the web programming ability.
